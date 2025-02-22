@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/699838008753883934/4b2353f4f37b45b1be44eea07da53fd1/artifacts
+deleted_time: 1739994573797
+end_time: 1739989989933
+entry_point_name: ''
+experiment_id: '699838008753883934'
+lifecycle_stage: deleted
+run_id: 4b2353f4f37b45b1be44eea07da53fd1
+run_name: polynomial-1-method-sto-theta-xavier-momentum-without-lr-0.01-reg-Lasso
+run_uuid: 4b2353f4f37b45b1be44eea07da53fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739989880597
+status: 3
+tags: []
+user_id: aike_sam

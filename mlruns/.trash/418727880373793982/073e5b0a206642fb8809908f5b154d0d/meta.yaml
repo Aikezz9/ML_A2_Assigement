@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/issac/ML/A2_cars_price_prediction/mlruns/418727880373793982/073e5b0a206642fb8809908f5b154d0d/artifacts
+deleted_time: 1739986438887
+end_time: 1739870198026
+entry_point_name: ''
+experiment_id: '418727880373793982'
+lifecycle_stage: deleted
+run_id: 073e5b0a206642fb8809908f5b154d0d
+run_name: upbeat-wren-431
+run_uuid: 073e5b0a206642fb8809908f5b154d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739870197698
+status: 4
+tags: []
+user_id: issac

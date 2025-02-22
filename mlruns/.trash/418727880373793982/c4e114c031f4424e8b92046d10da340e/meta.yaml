@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/issac/ML/A2_cars_price_prediction/mlruns/418727880373793982/c4e114c031f4424e8b92046d10da340e/artifacts
+deleted_time: 1739986438887
+end_time: 1739870140625
+entry_point_name: ''
+experiment_id: '418727880373793982'
+lifecycle_stage: deleted
+run_id: c4e114c031f4424e8b92046d10da340e
+run_name: fortunate-stag-958
+run_uuid: c4e114c031f4424e8b92046d10da340e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739870140316
+status: 4
+tags: []
+user_id: issac

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537158392617212200/0c030ec89b9b41ea819d7926910aa329/artifacts
+end_time: 1740008856778
+entry_point_name: ''
+experiment_id: '537158392617212200'
+lifecycle_stage: active
+run_id: 0c030ec89b9b41ea819d7926910aa329
+run_name: poly_degree:False-reg-ElasticNet-momentum-0-method-batch-theta-xavier-lr-0.001
+run_uuid: 0c030ec89b9b41ea819d7926910aa329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740008787771
+status: 3
+tags: []
+user_id: aike_sam

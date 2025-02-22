@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/699838008753883934/b9861cb6145c44ad8744aee3b46b741d/artifacts
+deleted_time: 1739994573797
+end_time: 1739989880572
+entry_point_name: ''
+experiment_id: '699838008753883934'
+lifecycle_stage: deleted
+run_id: b9861cb6145c44ad8744aee3b46b741d
+run_name: polynomial-1-method-sto-theta-zero-momentum-0.4-lr-0.0001-reg-Lasso
+run_uuid: b9861cb6145c44ad8744aee3b46b741d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739989874486
+status: 3
+tags: []
+user_id: aike_sam

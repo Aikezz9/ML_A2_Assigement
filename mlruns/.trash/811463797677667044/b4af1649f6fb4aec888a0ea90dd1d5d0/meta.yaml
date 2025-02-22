@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/811463797677667044/b4af1649f6fb4aec888a0ea90dd1d5d0/artifacts
+deleted_time: 1739994580340
+end_time: 1739966625693
+entry_point_name: ''
+experiment_id: '811463797677667044'
+lifecycle_stage: deleted
+run_id: b4af1649f6fb4aec888a0ea90dd1d5d0
+run_name: polynomial-0-method-mini-theta-zero-momentum-without-lr-0.01-reg-Normal
+run_uuid: b4af1649f6fb4aec888a0ea90dd1d5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739966622403
+status: 3
+tags: []
+user_id: aike_sam

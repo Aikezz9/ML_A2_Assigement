@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537158392617212200/a35a164833b04725917c860c7c58488e/artifacts
+end_time: 1740017547747
+entry_point_name: ''
+experiment_id: '537158392617212200'
+lifecycle_stage: active
+run_id: a35a164833b04725917c860c7c58488e
+run_name: poly_degree:False-reg-Lasso-momentum-0.5-method-batch-theta-zero-lr-0.0001
+run_uuid: a35a164833b04725917c860c7c58488e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740017472735
+status: 3
+tags: []
+user_id: aike_sam

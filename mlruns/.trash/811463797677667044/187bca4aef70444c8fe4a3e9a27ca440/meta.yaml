@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/811463797677667044/187bca4aef70444c8fe4a3e9a27ca440/artifacts
+deleted_time: 1739994580340
+end_time: 1739964811343
+entry_point_name: ''
+experiment_id: '811463797677667044'
+lifecycle_stage: deleted
+run_id: 187bca4aef70444c8fe4a3e9a27ca440
+run_name: polynomial-1-method-mini-theta-xavier-momentum-without-lr-0.01-reg-Normal
+run_uuid: 187bca4aef70444c8fe4a3e9a27ca440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739964805998
+status: 3
+tags: []
+user_id: aike_sam

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/811463797677667044/ab60b120053d46679e788421da51e598/artifacts
+deleted_time: 1739986462886
+end_time: 1739986422736
+entry_point_name: ''
+experiment_id: '811463797677667044'
+lifecycle_stage: deleted
+run_id: ab60b120053d46679e788421da51e598
+run_name: Fold-0
+run_uuid: ab60b120053d46679e788421da51e598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739986422582
+status: 3
+tags: []
+user_id: aike_sam

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537158392617212200/caf9bdae76d349e6a5eba86ea8bcb858/artifacts
+end_time: 1740012752880
+entry_point_name: ''
+experiment_id: '537158392617212200'
+lifecycle_stage: active
+run_id: caf9bdae76d349e6a5eba86ea8bcb858
+run_name: poly_degree:False-reg-Ridge-momentum-0-method-batch-theta-xavier-lr-0.0001
+run_uuid: caf9bdae76d349e6a5eba86ea8bcb858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740012685019
+status: 3
+tags: []
+user_id: aike_sam

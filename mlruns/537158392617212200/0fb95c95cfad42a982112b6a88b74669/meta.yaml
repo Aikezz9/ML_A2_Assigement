@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537158392617212200/0fb95c95cfad42a982112b6a88b74669/artifacts
+end_time: 1739995984112
+entry_point_name: ''
+experiment_id: '537158392617212200'
+lifecycle_stage: active
+run_id: 0fb95c95cfad42a982112b6a88b74669
+run_name: poly_degree:True-reg-Normal-momentum-0.5-method-batch-theta-zero-lr-0.001
+run_uuid: 0fb95c95cfad42a982112b6a88b74669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739995931447
+status: 3
+tags: []
+user_id: aike_sam

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537158392617212200/bb4b2ae056bf415ba95efb4501e6ad2c/artifacts
+end_time: 1740005110722
+entry_point_name: ''
+experiment_id: '537158392617212200'
+lifecycle_stage: active
+run_id: bb4b2ae056bf415ba95efb4501e6ad2c
+run_name: poly_degree:True-reg-Lasso-momentum-0.5-method-mini-theta-xavier-lr-0.001
+run_uuid: bb4b2ae056bf415ba95efb4501e6ad2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740005082927
+status: 3
+tags: []
+user_id: aike_sam

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/811463797677667044/a916e514981e4ff29b9ceae4c5b74f37/artifacts
+deleted_time: 1739986637786
+end_time: 1739975733311
+entry_point_name: ''
+experiment_id: '811463797677667044'
+lifecycle_stage: deleted
+run_id: a916e514981e4ff29b9ceae4c5b74f37
+run_name: polynomial-0-method-sto-theta-zero-momentum-0.4-lr-0.01-reg-Ridge
+run_uuid: a916e514981e4ff29b9ceae4c5b74f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739975616147
+status: 3
+tags: []
+user_id: aike_sam
